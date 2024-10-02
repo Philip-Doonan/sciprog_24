@@ -1,4 +1,4 @@
-# Git assignment project
+# Git Assignment Project
 
 __Name__: Philip Doonan  
 __Student Number__: 24100047  
