@@ -3,28 +3,28 @@ This file contains files helloworld, scanning and printing.
 demonstrating some fundementals for the course
 
 ## Part 1 Helloworld
-* Compile using 
+* Compile using <br>
 gcc -o helloworld helloworld.c
-* Rann using 
+* Rann using <br>
 ./helloworld
-* __Output__ 
+* __Output__<br> 
 Hello World
 
 ## Part 2 Printing
-* Compile using
+* Compile using<br>
 gcc -o printing printing.c
-* Ran using
+* Ran using<br>
 ./printing
-* __Output__
+* __Output__ <br>
 Account: 1 Subtotal: 1234.56 Total: 7890.12
 
 ## Part 3 Scanning
-* Compile using
+* Compile using<br>
 gcc -o scanning scanning.c
-* Ran using
-./scanning
+* Ran using<br>
+./scanning <br>
 __Note__:Need to input two integers to get the output  
-* __Output__ with integers 2 and 3 
-You entered 2 and 3
- num1 is even and num2 is odd
+* __Output__ <br> with integers 2 and 3 
+You entered 2 and 3 <br>
+num1 is even and num2 is odd <br>
  
