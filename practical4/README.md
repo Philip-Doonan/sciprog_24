@@ -1,4 +1,4 @@
-#Practical 4 
+# Practical 4 
 This file contains the file exercise.c which is a trapazodial method for tan(x) similar to practical 3. 
 The difference being this time we converted every 5th degree to radians using a degToRad function and used global arrays to save
 the tan(x) results of the radians. This practical was to demonstrate understanding of arrays, functions and global variables.
