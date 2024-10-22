@@ -8,7 +8,7 @@ gcc -o exercise exercise.c -lm
 * Run code with <br>
 ./exercise
 
-*__output__ 
+* __output__ 
 result of trapazodl method = 0.695404
 log(2) = 0.693147
 difference = 0.002257
