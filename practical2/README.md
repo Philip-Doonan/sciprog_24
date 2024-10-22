@@ -1,4 +1,4 @@
-#Practical 2
+# Practical 2
 This folder contains the c files Converion and Sum which demonstrate how float values arent 100%
 accurate was also the starting practical getting used to getting files onto the virtual machine
 
