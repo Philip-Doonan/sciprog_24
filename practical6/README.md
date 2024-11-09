@@ -13,11 +13,10 @@ make<br>
 ## Running <br>
 * Base Code<br>
 ./exercise6<br>
-<br>
-* using Make<br>
+* Using Make<br>
 ./exercise6C<br> 
-<br>
-__Output__
+
+* __Output__
 either way is the same<br>
 
 Matrix A:<br>
